@@ -1,0 +1,26 @@
+.datapage-container{
+    height: 100%;
+    width:100%;
+    display: flex;
+    justify-content: center;
+    /* border: 2px solid black; */
+}
+.datapage{
+    width: 80%;
+    height: 100%;
+    /* border: 2px solid black; */
+}
+.input-fields{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 200px;
+    width: 40%; 
+    margin: 20px 0 20px 0;
+}
+.controls{
+    display: flex;
+    width: 100%;
+    /* border: 2px solid black; */
+    justify-content: space-between;
+}
